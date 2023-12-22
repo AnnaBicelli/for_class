@@ -7,6 +7,7 @@ from function import print_descending_number_list
 print('hello world')
 print('a second line')
 
+#this for loops prints 
 for i in range(10):
     print(i, ':', i%2 == 0)
 
@@ -14,4 +15,5 @@ print(pd.DataFrame)
 
 #fn.descending_number_list(3,8,2)
 print_descending_number_list(3,8,2)
+name_of_hotel = 'Ariston'
 
